@@ -5,13 +5,12 @@ O projeto foi organizado da seguinte forma:
 ```
 Dio_Azure/
 ├── docs/               # Documentação do projeto
+│   └── python_example.md # Exemplo de aplicação Python
 ├── src/                # Código-fonte
-│   ├── app.js          # Aplicação principal
-│   └── config/         # Configurações
 ├── tests/              # Testes automatizados
 ├── README.md           # Descrição geral do projeto
-├── package.json        # Dependências e scripts
-└── MELHORIAS.md        # Sugestões de melhorias
+├── MELHORIAS.md        # Sugestões de melhorias
+└── STRUCTURE.md        # Estrutura do projeto
 ```
 
 Essa estrutura foi projetada para facilitar a manutenção e evolução do projeto.
