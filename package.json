@@ -1,0 +1,14 @@
+{
+  "name": "microsoft-application-platform-dio",
+  "version": "1.0.0",
+  "description": "Projeto DIO - Microsoft Application Platform (Azure)",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Patrick Lima",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
